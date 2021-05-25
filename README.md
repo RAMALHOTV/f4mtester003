@@ -22,1225 +22,943 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1,GLOBO SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5365
-#EXTINF:-1,GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5309
-#EXTINF:-1,GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5442
-#EXTINF:-1,PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5252
-#EXTINF:-1,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5106
-#EXTINF:-1,PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5481
-#EXTINF:-1,GLOBO RJ FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5352
-#EXTINF:-1,GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5307
-#EXTINF:-1,GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5441
-#EXTINF:-1,A&E FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5189
 #EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5040
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5394
-#EXTINF:-1,AMC FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5190
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1521
+#EXTINF:-1,A&E HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/375
+#EXTINF:-1,3 Palavrinhas
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33087
+#EXTINF:-1,A Grande Família
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33117
 #EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5041
-#EXTINF:-1,AMC SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5395
-#EXTINF:-1,ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5191
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5042
-#EXTINF:-1,ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5396
-#EXTINF:-1,ARTE 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/38424
-#EXTINF:-1,ARTE 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17923
-#EXTINF:-1,ARTE 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17913
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5192
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1498
+#EXTINF:-1,AMC HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/373
+#EXTINF:-1,Animal Planet 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56505
+#EXTINF:-1,Animal Planet HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1497
+#EXTINF:-1,Animal Planet HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/371
+#EXTINF:-1,Arte 1 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/15
+#EXTINF:-1,As Aventuras de Jackie Chan
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32589
 #EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5043
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5397
-#EXTINF:-1,BABY TV  HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/38437
-#EXTINF:-1,BABY TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40009
-#EXTINF:-1,BABY TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17914
-#EXTINF:-1,BAND 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26504
-#EXTINF:-1,BAND CAMPINAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68525
-#EXTINF:-1,BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68524
-#EXTINF:-1,BAND FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5289
-#EXTINF:-1,BAND FHD*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68514
-#EXTINF:-1,BAND HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68519
-#EXTINF:-1,BAND HD*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68513
-#EXTINF:-1,BAND NEWS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5193
-#EXTINF:-1,BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5160
-#EXTINF:-1,BAND NEWS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5401
-#EXTINF:-1,BAND SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/32955
-#EXTINF:-1,BAND SD*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68509
-#EXTINF:-1,BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5194
-#EXTINF:-1,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5044
-#EXTINF:-1,BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5402
-#EXTINF:-1,BIS FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5195
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1496
+#EXTINF:-1,AXN HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/369
+#EXTINF:-1,Baby TV SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/367
+#EXTINF:-1,Band 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56512
+#EXTINF:-1,Band HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/489
+#EXTINF:-1,Band HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/484
+#EXTINF:-1,Band News HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1494
+#EXTINF:-1,Band News HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/363
+#EXTINF:-1,Band Sports HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1495
+#EXTINF:-1,Band Sports HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/360
+#EXTINF:-1,Beastars
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33088
 #EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5045
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5403
-#EXTINF:-1,BOA VONTADE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/57363
-#EXTINF:-1,BOOMERANG FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5196
-#EXTINF:-1,BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17924
-#EXTINF:-1,BOOMERANG SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5404
-#EXTINF:-1,CANAL BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5197
-#EXTINF:-1,CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68534
-#EXTINF:-1,CANAL BRASIL SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5405
-#EXTINF:-1,CANAL DO BOI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45307
-#EXTINF:-1,CANAL DO BOI SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/32956
-#EXTINF:-1,CANAL RURAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/61857
-#EXTINF:-1,CANAL SONY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5046
-#EXTINF:-1,CANAL SONY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5407
-#EXTINF:-1,CANCAO NOVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45249
-#EXTINF:-1,CANÇÃO NOVA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5384
-#EXTINF:-1,CANÇÃO NOVA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5408
-#EXTINF:-1,CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5199
-#EXTINF:-1,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5047
-#EXTINF:-1,CARTOON NETWORK SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5409
-#EXTINF:-1,CINE BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45327
-#EXTINF:-1,CINE SKY 01
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40936
-#EXTINF:-1,CINE SKY 02
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40937
-#EXTINF:-1,CINE SKY 03
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40938
-#EXTINF:-1,CINE SKY 04
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40939
-#EXTINF:-1,CINE SKY 05
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40940
-#EXTINF:-1,CINE SKY 06
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40941
-#EXTINF:-1,CINE SKY 07
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40942
-#EXTINF:-1,CINE SKY 08
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40943
-#EXTINF:-1,CINE SKY 09
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40944
-#EXTINF:-1,CINE SKY 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/40945
-#EXTINF:-1,CINEMAX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5200
-#EXTINF:-1,CINEMAX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5048
-#EXTINF:-1,CINEMAX SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5410
-#EXTINF:-1,CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5285
-#EXTINF:-1,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5158
-#EXTINF:-1,CNN BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5540
-#EXTINF:-1,COMBATE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5201
-#EXTINF:-1,COMBATE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5049
-#EXTINF:-1,COMBATE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5411
-#EXTINF:-1,COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5202
-#EXTINF:-1,COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5050
-#EXTINF:-1,COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5412
-#EXTINF:-1,Conmebol TV HD (JOGO 1)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47849
-#EXTINF:-1,Conmebol TV HD (JOGO 2)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47851
-#EXTINF:-1,Conmebol TV HD (JOGO 3)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47853
-#EXTINF:-1,Conmebol TV HD (JOGO 4)  
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47855
-#EXTINF:-1,Conmebol TV FHD (JOGO 2)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/62113
-#EXTINF:-1,Copa do Nordeste 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47857
-#EXTINF:-1,Copa do Nordeste 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47859
-#EXTINF:-1,Copa do Nordeste 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47861
-#EXTINF:-1,Copa do Nordeste 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47863
-#EXTINF:-1,Copa do Nordeste 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47865
-#EXTINF:-1,COPA LIBERTADORES 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47869
-#EXTINF:-1,COPA LIBERTADORES 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47871
-#EXTINF:-1,COPA LIBERTADORES 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47873
-#EXTINF:-1,CULTURA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5518
-#EXTINF:-1,CURTA!
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5413
-#EXTINF:-1,DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47875
-#EXTINF:-1,DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47877
-#EXTINF:-1,DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47879
-#EXTINF:-1,DAZN 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/47881
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26506
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5203
-#EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5051
-#EXTINF:-1,DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5414
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5205
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5053
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5415
-#EXTINF:-1,DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5206
-#EXTINF:-1,DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5054
-#EXTINF:-1,DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5416
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5207
-#EXTINF:-1,DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5055
-#EXTINF:-1,DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17916
-#EXTINF:-1,DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5208
-#EXTINF:-1,DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5056
-#EXTINF:-1,DISCOVERY THEATER SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49098
-#EXTINF:-1,DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5209
-#EXTINF:-1,DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5057
-#EXTINF:-1,DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5417
-#EXTINF:-1,DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5210
-#EXTINF:-1,DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5058
-#EXTINF:-1,DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17917
-#EXTINF:-1,DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5211
-#EXTINF:-1,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5059
-#EXTINF:-1,DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5418
-#EXTINF:-1,DISNEY JR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5212
-#EXTINF:-1,DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45293
-#EXTINF:-1,DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5060
-#EXTINF:-1,DISNEY JR SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5419
-#EXTINF:-1,DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5420
-#EXTINF:-1,E! FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5213
-#EXTINF:-1,E! HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45328
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5421
-#EXTINF:-1,GLOBO EPTV CAMPINAS FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68541
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5354
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5423
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5422
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5215
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5064
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5425
-#EXTINF:-1,ESPN 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5216
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1493
+#EXTINF:-1,BIS HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/358
+#EXTINF:-1,Bleach
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33089
+#EXTINF:-1,Boa Vontade HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53499
+#EXTINF:-1,Boa Vontade SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22508
+#EXTINF:-1,Bob Esponja
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32590
+#EXTINF:-1,Boku no Hero Academia
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33090
+#EXTINF:-1,Boomerang HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1492
+#EXTINF:-1,Boomerang HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/355
+#EXTINF:-1,Boruto
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33091
+#EXTINF:-1,Canal Brasil HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/353
+#EXTINF:-1,Canal do Boi HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29771
+#EXTINF:-1,Canal Rural HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29770
+#EXTINF:-1,Canção Nova HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53496
+#EXTINF:-1,Canção Nova SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33237
+#EXTINF:-1,Cartoon Network 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56502
+#EXTINF:-1,Cartoon Network HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1491
+#EXTINF:-1,Cartoon Network HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/349
+#EXTINF:-1,Caverna do Dragão
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33092
+#EXTINF:-1,Chaves
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32626
+#EXTINF:-1,Chef TV HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53518
+#EXTINF:-1,Chef TV HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53519
+#EXTINF:-1,CINE SKY 1
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33230
+#EXTINF:-1,CINE SKY 2
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33231
+#EXTINF:-1,CINE SKY 3
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33232
+#EXTINF:-1,CINE SKY 4
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33233
+#EXTINF:-1,CINE SKY 5
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33234
+#EXTINF:-1,CINE SKY 6
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33235
+#EXTINF:-1,CINE SKY 7
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33236
+#EXTINF:-1,Cinemax HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1490
+#EXTINF:-1,Cinemax HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/347
+#EXTINF:-1,Clássicos Walt Disney
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32624
+#EXTINF:-1,CNN Brasil HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/21417
+#EXTINF:-1,CNN Brasil HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/21418
+#EXTINF:-1,CNN Espanhol SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/345
+#EXTINF:-1,CNN Internacional SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/344
+#EXTINF:-1,CNT HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53497
+#EXTINF:-1,Combate 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56511
+#EXTINF:-1,Combate HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1489
+#EXTINF:-1,Combate HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/342
+#EXTINF:-1,Comedy Central HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1488
+#EXTINF:-1,Comedy Central HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/340
+#EXTINF:-1,Conmebol 1 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56486
+#EXTINF:-1,Conmebol 1 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33267
+#EXTINF:-1,Conmebol 1 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33271
+#EXTINF:-1,Conmebol 2 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33268
+#EXTINF:-1,Conmebol 2 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33272
+#EXTINF:-1,Conmebol 3 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33269
+#EXTINF:-1,Conmebol 3 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33273
+#EXTINF:-1,Conmebol 4 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33270
+#EXTINF:-1,Conmebol 4 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33274
+#EXTINF:-1,Copa Nordeste 1 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/55196
+#EXTINF:-1,Copa Nordeste 2 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/55194
+#EXTINF:-1,Copa Nordeste 3 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/55195
+#EXTINF:-1,Copa Nordeste 4 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/55193
+#EXTINF:-1,Copa Nordeste 5 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/55192
+#EXTINF:-1,Copa Nordeste 6 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/55191
+#EXTINF:-1,Curta! SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/338
+#EXTINF:-1,DAZN HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2716
+#EXTINF:-1,Discovery Channel 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56508
+#EXTINF:-1,Discovery Channel HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1487
+#EXTINF:-1,Discovery Channel HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/337
+#EXTINF:-1,Discovery Home & Health HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1518
+#EXTINF:-1,Discovery Home & Health HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/334
+#EXTINF:-1,Discovery Kids HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1483
+#EXTINF:-1,Discovery Kids HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/332
+#EXTINF:-1,Discovery Science HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1482
+#EXTINF:-1,Discovery Science HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/330
+#EXTINF:-1,Discovery Theater HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1486
+#EXTINF:-1,Discovery Theater HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/329
+#EXTINF:-1,Discovery Turbo HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1481
+#EXTINF:-1,Discovery Turbo HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/328
+#EXTINF:-1,Discovery World HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1485
+#EXTINF:-1,Discovery World HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/326
+#EXTINF:-1,Disney Channel HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1480
+#EXTINF:-1,Disney Channel HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/325
+#EXTINF:-1,Disney Júnior HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1478
+#EXTINF:-1,Disney Júnior HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/323
+#EXTINF:-1,Disney XD HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1517
+#EXTINF:-1,Disney XD HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/683
+#EXTINF:-1,DOG TV HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33239
+#EXTINF:-1,DOG TV HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33238
+#EXTINF:-1,Dois Homens e Meio
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33113
+#EXTINF:-1,Dragon Ball
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33093
+#EXTINF:-1,Dragon Ball GT
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33094
+#EXTINF:-1,Dragon Ball Heroes
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32594
+#EXTINF:-1,Dragon Ball Super
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32623
+#EXTINF:-1,Dragon Ball Z
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32622
+#EXTINF:-1,E! HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/318
 #EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5062
-#EXTINF:-1,ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5426
-#EXTINF:-1,ESPN BRASIL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5217
-#EXTINF:-1,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5063
-#EXTINF:-1,ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5427
-#EXTINF:-1,ESPN EXTRA FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5214
-#EXTINF:-1,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5065
-#EXTINF:-1,FILM & ARTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5428
-#EXTINF:-1,FILM & ARTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41425
-#EXTINF:-1,FISH TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17925
-#EXTINF:-1,FISH TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5429
-#EXTINF:-1,FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5219
-#EXTINF:-1,FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5066
-#EXTINF:-1,FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5430
-#EXTINF:-1,FOX 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26507
-#EXTINF:-1,FOX SPORTS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68535
-#EXTINF:-1,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5072
-#EXTINF:-1,FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5433
-#EXTINF:-1,FOX SPORTS 2 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26508
-#EXTINF:-1,FOX SPORTS 2 FHD  
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5224
-#EXTINF:-1,FOX SPORTS 2 HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5071
-#EXTINF:-1,FUTURA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5435
-#EXTINF:-1,FX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5225
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1476
+#EXTINF:-1,ESPN 2 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/314
+#EXTINF:-1,ESPN 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56498
+#EXTINF:-1,ESPN Brasil HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1475
+#EXTINF:-1,ESPN Brasil HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/313
+#EXTINF:-1,ESPN Extra HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/311
+#EXTINF:-1,ESPN HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1477
+#EXTINF:-1,ESPN HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/309
+#EXTINF:-1,Eu a Patroa e as Crianças
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32621
+#EXTINF:-1,Family Guy 24H
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56540
+#EXTINF:-1,Fashion TV HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33241
+#EXTINF:-1,Fashion TV HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33240
+#EXTINF:-1,Film & Arts HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33242
+#EXTINF:-1,Film & Arts SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33243
+#EXTINF:-1,Fish TV SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/307
+#EXTINF:-1,Food Network HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1474
+#EXTINF:-1,Food Network HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/306
+#EXTINF:-1,Fox 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56488
+#EXTINF:-1,Fox HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1473
+#EXTINF:-1,Fox HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/304
+#EXTINF:-1,Fox Life HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1472
+#EXTINF:-1,Fox Life HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/303
+#EXTINF:-1,Fox News HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53516
+#EXTINF:-1,Fox News HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53515
+#EXTINF:-1,Fox Premium 1 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1505
+#EXTINF:-1,Fox Premium 1 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29767
+#EXTINF:-1,Fox Premium 2 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29768
+#EXTINF:-1,Fox Premium 2 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29769
+#EXTINF:-1,Fox Sports 2 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56500
+#EXTINF:-1,Fox Sports 2 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1501
+#EXTINF:-1,Fox Sports 2 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/300
+#EXTINF:-1,Fox Sports 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56507
+#EXTINF:-1,Fox Sports HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1502
+#EXTINF:-1,Fox Sports HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/298
+#EXTINF:-1,Friends
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33114
+#EXTINF:-1,Futura HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53490
 #EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5073
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5436
-#EXTINF:-1,GAZETA 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26509
-#EXTINF:-1,GAZETA SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41695
-#EXTINF:-1,GAZETA SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41808
-#EXTINF:-1,GLOBO ACRE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70528
-#EXTINF:-1,GLOBO ACRE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70527
-#EXTINF:-1,GLOBO BAHIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68521
-#EXTINF:-1,GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68520
-#EXTINF:-1,GLOBO BAHIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/50749
-#EXTINF:-1,GLOBO BELEM FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70531
-#EXTINF:-1,GLOBO BELEM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70530
-#EXTINF:-1,GLOBO BELEM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70529
-#EXTINF:-1,GLOBO BOA VISTA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71694
-#EXTINF:-1,GLOBO BRASILIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/30621
-#EXTINF:-1,GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5437
-#EXTINF:-1,GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5353
-#EXTINF:-1,GLOBO CEARÁ
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71695
-#EXTINF:-1,GLOBO CEARÁ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71696
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71697
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71698
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/69860
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/69859
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/69858
-#EXTINF:-1,GLOBO ES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/50178
-#EXTINF:-1,GLOBO FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71699
-#EXTINF:-1,GLOBO GAZETA ALAGOAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/69517
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71700
-#EXTINF:-1,GLOBO INTER TV CABUGI HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71701
-#EXTINF:-1,GLOBO INTER TV CABUGI²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71702
-#EXTINF:-1,GLOBO INTER TV DOS VALES FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71703
-#EXTINF:-1,GLOBO INTER TV DOS VALES HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71704
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71705
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71706
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71707
-#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71708
-#EXTINF:-1,GLOBO MACAPA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71709
-#EXTINF:-1,GLOBO MACAPA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71710
-#EXTINF:-1,GLOBO MINAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68543
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5339
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5438
-#EXTINF:-1,GLOBO NATAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71711
-#EXTINF:-1,GLOBO NATAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71712
-#EXTINF:-1,GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45264
-#EXTINF:-1,GLOBO NEWS HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5074
-#EXTINF:-1,GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5439
-#EXTINF:-1,GLOBO NORDESTE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5440
-#EXTINF:-1,GLOBO NORDESTE H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71713
-#EXTINF:-1,GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/30731
-#EXTINF:-1,GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41304
-#EXTINF:-1,GLOBO NSC TV BLUMENAL FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71715
-#EXTINF:-1,GLOBO NSC TV BLUMENAU FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68540
-#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68539
-#EXTINF:-1,GLOBO NSC TV BLUMENAU SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68538
-#EXTINF:-1,GLOBO NSC TV CHAPECO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71716
-#EXTINF:-1,GLOBO NSC TV CRICIUMA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71717
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71718
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71719
-#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71720
-#EXTINF:-1,GLOBO PORTO VELHO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71721
-#EXTINF:-1,GLOBO PORTO VELHO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71722
-#EXTINF:-1,GLOBO RBS CAXIAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71723
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71724
-#EXTINF:-1,GLOBO RBS TV PELOTAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71725
-#EXTINF:-1,GLOBO RBS PELOTAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71726
-#EXTINF:-1,GLOBO RBS TV SANTA MARIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71727
-#EXTINF:-1,GLOBO RECIFE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71728
-#EXTINF:-1,GLOBO RECIFE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71729
-#EXTINF:-1,GLOBO RECIFE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71730
-#EXTINF:-1,GLOBO RECIFE HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71731
-#EXTINF:-1,GLOBO REDE AMAZONICA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71732
-#EXTINF:-1,GLOBO REDE AMAZONICA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71733
-#EXTINF:-1,GLOBO RIO INTERIOR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71734
-#EXTINF:-1,GLOBO RIO¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71735
-#EXTINF:-1,GLOBO RPC CURITIBA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49430
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49429
-#EXTINF:-1,GLOBO RPC CURITIBA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5489
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71736
-#EXTINF:-1,GLOBO RPC MARINGA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41689
-#EXTINF:-1,GLOBO RPC MARINGA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49428
-#EXTINF:-1,GLOBO RPC MARINGA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49431
-#EXTINF:-1,GLOBO RPC PARANAVAI FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41687
-#EXTINF:-1,GLOBO RPC PARANAVAI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/30730
-#EXTINF:-1,GLOBO RPC PARANAVAI SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68522
-#EXTINF:-1,GLOBO RPC PONTA GROSSA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71737
-#EXTINF:-1,GLOBO SJRP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71739
-#EXTINF:-1,GLOBO SP DUAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71740
-#EXTINF:-1,GLOBO TRIBUNA SANTOS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68714
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/62003
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD 265*
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5513
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70217
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70219
-#EXTINF:-1,GLOBO TV ASA BRANCA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71741
-#EXTINF:-1,GLOBO TV BAHIA FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71742
-#EXTINF:-1,GLOBO TV BAHIA HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71743
-#EXTINF:-1,GLOBO TV BAHIA SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5515
-#EXTINF:-1,GLOBO TV CABO BRANCO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71744
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABÁ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71745
-#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIABÁ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71746
-#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIABÁ FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71747
-#EXTINF:-1,GLOBO TV CLUBE PIAUÍ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71748
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71749
-#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71750
-#EXTINF:-1,GLOBO TV GAZETA FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71751
-#EXTINF:-1,GLOBO TV GAZETA SUL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71752
-#EXTINF:-1,GLOBO TV GRANDE RIO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71753
-#EXTINF:-1,GLOBO TV INTEGRACAO ARAXA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71754
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71755
-#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71756
-#EXTINF:-1,GLOBO TV MIRANTE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71757
-#EXTINF:-1,GLOBO TV MIRANTE FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71758
-#EXTINF:-1,GLOBO TV MIRANTE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71759
-#EXTINF:-1,GLOBO TV MIRANTE HD²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71760
-#EXTINF:-1,GLOBO TV MORENA FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71761
-#EXTINF:-1,GLOBO TV NACIONAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71762
-#EXTINF:-1,GLOBO TV RIO SUL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/43303
-#EXTINF:-1,GLOBO TV RIO SUL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41696
-#EXTINF:-1,GLOBO TV SANTA CRUZ FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71763
-#EXTINF:-1,GLOBO TV SANTA CRUZ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71764
-#EXTINF:-1,GLOBO TV SERGIPE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71765
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71766
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71767
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71768
-#EXTINF:-1,GLOBO VITORIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71771
-#EXTINF:-1,GLOBO VITORIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5304
-#EXTINF:-1,GLOBOSAT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5238
-#EXTINF:-1,GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5075
-#EXTINF:-1,GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5454
-#EXTINF:-1,GLOOB FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5227
-#EXTINF:-1,GLOOB HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5076
-#EXTINF:-1,GLOOB SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5443
-#EXTINF:-1,GNT FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5228
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1469
+#EXTINF:-1,FX HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/294
+#EXTINF:-1,Galinha Pintadinha
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32609
+#EXTINF:-1,Gazeta 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56494
+#EXTINF:-1,Globo 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56487
+#EXTINF:-1,Globo Bahia HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/260
+#EXTINF:-1,Globo Bahia HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2707
+#EXTINF:-1,Globo Brasilia HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/291
+#EXTINF:-1,Globo Centro America HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2712
+#EXTINF:-1,Globo EPTV Campinas HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/289
+#EXTINF:-1,Globo EPTV Campinas HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2711
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/287
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2952
+#EXTINF:-1,Globo EPTV Sul Minas HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/4469
+#EXTINF:-1,Globo EPTV Sul Minas HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/4468
+#EXTINF:-1,Globo EPTV São Carlos HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2941
+#EXTINF:-1,Globo EPTV São Carlos HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2940
+#EXTINF:-1,Globo Goiânia SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/262
+#EXTINF:-1,Globo Inter TV Alto Litoral HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53507
+#EXTINF:-1,Globo Inter TV Cabugi HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53476
+#EXTINF:-1,Globo Inter TV Cabugi HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33244
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53470
+#EXTINF:-1,Globo Inter TV dos Vales HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53471
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/4471
+#EXTINF:-1,Globo Inter TV Grande Minas HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/4470
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53487
+#EXTINF:-1,Globo Inter TV Serra Mar HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53486
+#EXTINF:-1,Globo Manaus
+http://canaishd.servidor.tv:8080/coelho123/coelho123/19
+#EXTINF:-1,Globo Manaus HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33250
+#EXTINF:-1,Globo Minas HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/279
+#EXTINF:-1,Globo Minas HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2713
+#EXTINF:-1,Globo News HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1468
+#EXTINF:-1,Globo News HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/277
+#EXTINF:-1,Globo Nordeste HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/275
+#EXTINF:-1,Globo Nordeste HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2714
+#EXTINF:-1,Globo NSC Blumenal HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53513
+#EXTINF:-1,Globo NSC Centro Oeste HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53501
+#EXTINF:-1,Globo NSC Criciuma HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53504
+#EXTINF:-1,Globo NSC Floripa HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2710
+#EXTINF:-1,Globo NSC Joinville HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33246
+#EXTINF:-1,Globo NSC Joinville HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33245
+#EXTINF:-1,Globo NSC TV Chapeco HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53505
+#EXTINF:-1,Globo Portugal HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33247
+#EXTINF:-1,Globo RBS Poa HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1467
+#EXTINF:-1,Globo RBS Poa HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/271
+#EXTINF:-1,Globo RBS TV Caixias do Sul HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53503
+#EXTINF:-1,Globo RBS TV Pelotas HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53495
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33249
+#EXTINF:-1,Globo RBS TV Santa Maria HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33248
+#EXTINF:-1,Globo Recife HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53473
+#EXTINF:-1,Globo Recife HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53472
+#EXTINF:-1,Globo Rede Amazonica HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53478
+#EXTINF:-1,Globo Rede Amazonica HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53477
+#EXTINF:-1,Globo RJ HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1504
+#EXTINF:-1,Globo RJ HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/268
+#EXTINF:-1,Globo RPC Curitiba HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/266
+#EXTINF:-1,Globo RPC Curitiba HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2709
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53483
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53482
+#EXTINF:-1,Globo RPC Maringá HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53485
+#EXTINF:-1,Globo RPC Maringá HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53484
+#EXTINF:-1,Globo RPC Paraná HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53475
+#EXTINF:-1,Globo RPC Paraná HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53474
+#EXTINF:-1,Globo RPC Ponta Grossa HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53502
+#EXTINF:-1,Globo S.J Rio Preto HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2945
+#EXTINF:-1,Globo S.J Rio Preto HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2944
+#EXTINF:-1,Globo Sergipe HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/250
+#EXTINF:-1,Globo São Paulo HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1466
+#EXTINF:-1,Globo São Paulo HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/265
+#EXTINF:-1,Globo TV Anhanguera Goiânia  HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33251
+#EXTINF:-1,Globo TV Anhanguera HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2708
+#EXTINF:-1,Globo TV Asa Branca HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53479
+#EXTINF:-1,Globo TV Asa Branca HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33252
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53481
+#EXTINF:-1,Globo TV Cabo Branco HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53480
+#EXTINF:-1,Globo TV Clube Piaui HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33254
+#EXTINF:-1,Globo TV Clube Piaui HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33253
+#EXTINF:-1,Globo TV Diario Mogi HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2947
+#EXTINF:-1,Globo TV Diario Mogi HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2946
+#EXTINF:-1,Globo TV Fronteira HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2943
+#EXTINF:-1,Globo TV Fronteira HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2942
+#EXTINF:-1,Globo TV Gazeta Alagoas HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/4467
+#EXTINF:-1,Globo TV Gazeta HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/75
+#EXTINF:-1,Globo Tv Gazeta Sul ES HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33185
+#EXTINF:-1,Globo Tv Gazeta Sul ES HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33186
+#EXTINF:-1,Globo TV Integração HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22505
+#EXTINF:-1,Globo TV Integração HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22504
+#EXTINF:-1,Globo TV Integração J.F HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53506
+#EXTINF:-1,Globo TV Liberal
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2706
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33256
+#EXTINF:-1,Globo TV Liberal Belem HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33255
+#EXTINF:-1,Globo TV Mirante HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2705
+#EXTINF:-1,Globo TV Morena HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2704
+#EXTINF:-1,Globo TV Rio Sul HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53494
+#EXTINF:-1,Globo TV Santa Cruz SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29774
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33257
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2949
+#EXTINF:-1,Globo TV TEM Sorocaba HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2948
+#EXTINF:-1,Globo TV TRIBUNA HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2954
+#EXTINF:-1,Globo TV TRIBUNA HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2953
+#EXTINF:-1,Globo TV VANGUARDA HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2951
+#EXTINF:-1,Globo TV VANGUARDA HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2950
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2703
+#EXTINF:-1,Gloob HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1499
+#EXTINF:-1,Gloob HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/686
+#EXTINF:-1,Gloobinho HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1515
+#EXTINF:-1,Gloobinho HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/237
 #EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5077
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5444
-#EXTINF:-1,HBO 2 FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17912
-#EXTINF:-1,HBO 2 FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5233
+http://canaishd.servidor.tv:8080/coelho123/coelho123/235
+#EXTINF:-1,H2 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1465
+#EXTINF:-1,H2 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/233
 #EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5078
-#EXTINF:-1,HBO 2 SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5449
-#EXTINF:-1,HBO 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26510
-#EXTINF:-1,HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5229
-#EXTINF:-1,HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5079
-#EXTINF:-1,HBO FAMILY SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5446
-#EXTINF:-1,HBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5230
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1460
+#EXTINF:-1,HBO 2 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/231
+#EXTINF:-1,HBO 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56496
+#EXTINF:-1,HBO Family HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1464
+#EXTINF:-1,HBO Family HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/229
 #EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5080
-#EXTINF:-1,HBO MUNDI FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5239
-#EXTINF:-1,HBO MUNDI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5087
-#EXTINF:-1,HBO PLUS SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5447
-#EXTINF:-1,HBO POP FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5241
-#EXTINF:-1,HBO POP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5089
-#EXTINF:-1,HBO POP SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17920
-#EXTINF:-1,HBO POP SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5457
-#EXTINF:-1,HBO SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5445
-#EXTINF:-1,HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5082
-#EXTINF:-1,HBO SIGNATURE HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45334
-#EXTINF:-1,HBO SIGNATURE SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5448
-#EXTINF:-1,HBO XTREME 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26511
-#EXTINF:-1,HBO XTREME FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5240
-#EXTINF:-1,HBO XTREME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5088
-#EXTINF:-1,HBO XTREME SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5456
-#EXTINF:-1,HGTV FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5204
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1463
+#EXTINF:-1,HBO HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/227
+#EXTINF:-1,HBO Mundi HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1457
+#EXTINF:-1,HBO Mundi HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/211
+#EXTINF:-1,HBO Plus HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1462
+#EXTINF:-1,HBO Plus HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/226
+#EXTINF:-1,HBO Pop HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1455
+#EXTINF:-1,HBO Pop HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/207
+#EXTINF:-1,HBO Signature HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1461
+#EXTINF:-1,HBO Signature HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/224
+#EXTINF:-1,HBO Xtreme 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56490
+#EXTINF:-1,HBO Xtreme HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1456
+#EXTINF:-1,HBO Xtreme HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/209
 #EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5052
-#EXTINF:-1,HGTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17921
-#EXTINF:-1,HISTORY 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5235
-#EXTINF:-1,HISTORY 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5083
-#EXTINF:-1,HISTORY 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5450
-#EXTINF:-1,HISTORY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5234
-#EXTINF:-1,HISTORY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5084
-#EXTINF:-1,HISTORY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5534
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5236
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5085
-#EXTINF:-1,ID - INVESTIGATION DISCOVERY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5451
-#EXTINF:-1,LIFETIME FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5237
-#EXTINF:-1,LIFETIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5086
-#EXTINF:-1,LIFETIME SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5453
-#EXTINF:-1,LIKEE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41325
-#EXTINF:-1,LIKEE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41326
-#EXTINF:-1,MEGAPIX 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26512
-#EXTINF:-1,MEGAPIX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5242
-#EXTINF:-1,MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5090
-#EXTINF:-1,MEGAPIX SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5458
-#EXTINF:-1,MTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5243
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33265
+#EXTINF:-1,HGTV HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33266
+#EXTINF:-1,History Channel HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1459
+#EXTINF:-1,History Channel HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/95
+#EXTINF:-1,i Sat HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53514
+#EXTINF:-1,Investigacao Discovery HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1514
+#EXTINF:-1,Investigação Discovery HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/218
+#EXTINF:-1,Lifetime HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1458
+#EXTINF:-1,Lifetime HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/216
+#EXTINF:-1,Loading TV HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53509
+#EXTINF:-1,Luluzinha
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32629
+#EXTINF:-1,Mais Esportes 1 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/41560
+#EXTINF:-1,Mais Esportes 2 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/41561
+#EXTINF:-1,Mais Esportes 3 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/41562
+#EXTINF:-1,Mais Esportes 4 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/41563
+#EXTINF:-1,Mais Globosat HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/213
+#EXTINF:-1,Mais Kids 1 (Infantil)
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56543
+#EXTINF:-1,Mais Kids 2 (10+)
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56542
+#EXTINF:-1,Mais Kids 3 (10+)
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56541
+#EXTINF:-1,Mais Kids 4 (16+)
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56537
+#EXTINF:-1,Mais Kids 5 (Infantil)
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56539
+#EXTINF:-1,Mais Kids 6 (Anime)
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56538
+#EXTINF:-1,Masha e o Urso
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32593
+#EXTINF:-1,Medabots
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32608
+#EXTINF:-1,Megapix 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56501
+#EXTINF:-1,Megapix HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1454
+#EXTINF:-1,Megapix HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/204
+#EXTINF:-1,Mickey Mouse Cartoon
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32598
+#EXTINF:-1,Mickey Mouse Clássico
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32597
 #EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5091
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5459
-#EXTINF:-1,MULTISHOW 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26513
-#EXTINF:-1,MULTISHOW FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5244
-#EXTINF:-1,MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5092
-#EXTINF:-1,MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5460
-#EXTINF:-1,MUSIC BOX BRAZIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5462
-#EXTINF:-1,MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5461
-#EXTINF:-1,MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45325
-#EXTINF:-1,NAT GEO 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26514
-#EXTINF:-1,NATGEO KIDS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5247
-#EXTINF:-1,NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5094
-#EXTINF:-1,NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5463
-#EXTINF:-1,NATGEO WILD FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5246
-#EXTINF:-1,NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5095
-#EXTINF:-1,NATGEO WILD SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5464
-#EXTINF:-1,NICK JR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5249
-#EXTINF:-1,NICK JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5097
-#EXTINF:-1,NICK JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45295
-#EXTINF:-1,NICK JR SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5466
-#EXTINF:-1,NICKELODEON FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5248
-#EXTINF:-1,NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5096
-#EXTINF:-1,NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5467
-#EXTINF:-1,NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45255
-#EXTINF:-1,NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5536
-#EXTINF:-1,NSC TV FLORIANOPOLIS FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68536
-#EXTINF:-1,NSC TV FLORIANOPOLIS HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5348
-#EXTINF:-1,OFF FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5250
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1453
+#EXTINF:-1,MTV HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/202
+#EXTINF:-1,MTV Live HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33259
+#EXTINF:-1,MTV Live HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33258
+#EXTINF:-1,Multishow 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56503
+#EXTINF:-1,Multishow HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1452
+#EXTINF:-1,Multishow HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/199
+#EXTINF:-1,Mundo Bita
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32607
+#EXTINF:-1,Nanatsu no Taizai
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33095
+#EXTINF:-1,Naruto
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33096
+#EXTINF:-1,Naruto Shippuden
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33097
+#EXTINF:-1,Nat Geo Kids HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1451
+#EXTINF:-1,Nat Geo Kids HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/195
+#EXTINF:-1,Nat Geo Wild HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1450
+#EXTINF:-1,Nat Geo Wild HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/193
+#EXTINF:-1,National Geographic 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56499
+#EXTINF:-1,National Geographic HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/196
+#EXTINF:-1,Nick JR HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1503
+#EXTINF:-1,Nick JR HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/187
+#EXTINF:-1,Nickelodeon HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1449
+#EXTINF:-1,Nickelodeon HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/188
+#EXTINF:-1,Novo Tempo HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22507
+#EXTINF:-1,O Pequeno Urso
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32630
+#EXTINF:-1,O Show da Luna
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32606
 #EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5098
-#EXTINF:-1,OFF SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5468
-#EXTINF:-1,PARAMOUNT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5251
-#EXTINF:-1,PARAMOUNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5099
-#EXTINF:-1,PARAMOUNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5469
-#EXTINF:-1,PLAY KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5543
-#EXTINF:-1,POWER COUPLE BRASIL  H265
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68515
-#EXTINF:-1,POWER COUPLE BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68516
-#EXTINF:-1,POWER COUPLE BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/66919
-#EXTINF:-1,POWER COUPLE BRASIL HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/64827
-#EXTINF:-1,POWER COUPLE BRASIL HD h264
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68517
-#EXTINF:-1,POWER COUPLE BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68518
-#EXTINF:-1,PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5253
-#EXTINF:-1,PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5100
-#EXTINF:-1,PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5473
-#EXTINF:-1,PREMIERE 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/56159
-#EXTINF:-1,PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5254
-#EXTINF:-1,PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5101
-#EXTINF:-1,PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5474
-#EXTINF:-1,PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5255
-#EXTINF:-1,PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5102
-#EXTINF:-1,PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5475
-#EXTINF:-1,PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5256
-#EXTINF:-1,PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45345
-#EXTINF:-1,PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5476
-#EXTINF:-1,PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5257
-#EXTINF:-1,PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5104
-#EXTINF:-1,PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5477
-#EXTINF:-1,PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5258
-#EXTINF:-1,PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5105
-#EXTINF:-1,PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5478
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FHD  
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68537
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5310
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5483
-#EXTINF:-1,RECORD 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26515
-#EXTINF:-1,RECORD BAHIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70990
-#EXTINF:-1,RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/41279
-#EXTINF:-1,RECORD BELEM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70991
-#EXTINF:-1,RECORD BRASILIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70992
-#EXTINF:-1,RECORD BRASILIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5311
-#EXTINF:-1,RECORD ES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/50179
-#EXTINF:-1,RECORD GOIAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68716
-#EXTINF:-1,RECORD GOIAS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70995
-#EXTINF:-1,RECORD GOIAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70996
-#EXTINF:-1,RECORD MANAUS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/70998
-#EXTINF:-1,RECORD MINAS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68542
-#EXTINF:-1,RECORD MINAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5179
-#EXTINF:-1,RECORD MINAS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5319
-#EXTINF:-1,RECORD NEWS ES  FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5161
-#EXTINF:-1,RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/50180
-#EXTINF:-1,RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5484
-#EXTINF:-1,RECORD NEWS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17922
-#EXTINF:-1,RECORD RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5320
-#EXTINF:-1,RECORD RJ FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/35165
-#EXTINF:-1,RECORD RS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68510
-#EXTINF:-1,RECORD RS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68511
-#EXTINF:-1,RECORD RS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/71001
-#EXTINF:-1,RECORD SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/57255
-#EXTINF:-1,RECORD SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5316
-#EXTINF:-1,RECORD SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68715
-#EXTINF:-1,REDE BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45237
-#EXTINF:-1,REDE TV! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5108
-#EXTINF:-1,REDE TV! SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5487
-#EXTINF:-1,REDE VIDA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45250
-#EXTINF:-1,REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5488
-#EXTINF:-1,SBT 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26516
-#EXTINF:-1,SBT SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68532
-#EXTINF:-1,SBT SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68531
-#EXTINF:-1,SBT PARANA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68527
-#EXTINF:-1,SBT PARANA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68526
-#EXTINF:-1,SBT PARANA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5343
-#EXTINF:-1,SBT RJ FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68529
-#EXTINF:-1,SBT RJ HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5364
-#EXTINF:-1,SBT RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68528
-#EXTINF:-1,SBT SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/68530
-#EXTINF:-1,SMITHSONIAN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5162
-#EXTINF:-1,SPACE 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26517
-#EXTINF:-1,SPACE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5261
-#EXTINF:-1,SPACE HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5109
-#EXTINF:-1,SPORTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/29359
-#EXTINF:-1,SPORTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5112
-#EXTINF:-1,SPORTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5494
-#EXTINF:-1,SPACE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/49321
-#EXTINF:-1,SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5262
-#EXTINF:-1,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5110
-#EXTINF:-1,SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5495
-#EXTINF:-1,SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5263
-#EXTINF:-1,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5111
-#EXTINF:-1,SPORTV 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5496
-#EXTINF:-1,STAR CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5220
-#EXTINF:-1,STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5067
-#EXTINF:-1,STAR CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5817
-#EXTINF:-1,STAR HITS 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17919
-#EXTINF:-1,STAR HITS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5222
-#EXTINF:-1,STAR HITS 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5070
-#EXTINF:-1,STAR HITS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17918
-#EXTINF:-1,STAR HITS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5221
-#EXTINF:-1,STAR HITS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5069
-#EXTINF:-1,STAR LIFE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/17911
-#EXTINF:-1,STAR LIFE HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5068
-#EXTINF:-1,STAR LIFE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5432
-#EXTINF:-1,STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5265
-#EXTINF:-1,STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5113
-#EXTINF:-1,STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5497
-#EXTINF:-1,SYFY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5266
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5114
-#EXTINF:-1,SYFY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5498
-#EXTINF:-1,TBS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5267
+http://canaishd.servidor.tv:8080/coelho123/coelho123/183
+#EXTINF:-1,One Punch Man
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33098
+#EXTINF:-1,Operação Fronteira América do Sul
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32681
+#EXTINF:-1,Os Cavaleiros do Zodíaco
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33100
+#EXTINF:-1,Os Simpsons
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32591
+#EXTINF:-1,Pai Eterno HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22509
+#EXTINF:-1,Papaléguas e o Coiote
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32605
+#EXTINF:-1,Paramount Channel HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1448
+#EXTINF:-1,Paramount Channel HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/181
+#EXTINF:-1,Patrulha Canina
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32604
+#EXTINF:-1,Peppa Pig
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32631
+#EXTINF:-1,Pica-Pau
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32588
+#EXTINF:-1,Play Kids HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53512
+#EXTINF:-1,Play TV SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/179
+#EXTINF:-1,Polishop HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53498
+#EXTINF:-1,Polícia 24 Horas
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32596
+#EXTINF:-1,Premiere 2 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1511
+#EXTINF:-1,Premiere 2 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/172
+#EXTINF:-1,Premiere 3 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1510
+#EXTINF:-1,Premiere 3 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/170
+#EXTINF:-1,Premiere 4 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1509
+#EXTINF:-1,Premiere 4 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/168
+#EXTINF:-1,Premiere 5 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1508
+#EXTINF:-1,Premiere 5 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/166
+#EXTINF:-1,Premiere 6 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1507
+#EXTINF:-1,Premiere 6 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/164
+#EXTINF:-1,Premiere 7 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1506
+#EXTINF:-1,Premiere 7 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/162
+#EXTINF:-1,Premiere Clubes 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56509
+#EXTINF:-1,Premiere Clubes HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1447
+#EXTINF:-1,Premiere Clubes HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/159
+#EXTINF:-1,Prime Box Brasil HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/4456
+#EXTINF:-1,Prime Box Brasil HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/157
+#EXTINF:-1,RBI HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53489
+#EXTINF:-1,Record 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56510
+#EXTINF:-1,Record BA HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29777
+#EXTINF:-1,Record Belem HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29775
+#EXTINF:-1,Record DF HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29776
+#EXTINF:-1,Record GO HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29779
+#EXTINF:-1,Record MG HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29778
+#EXTINF:-1,Record News HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1513
+#EXTINF:-1,Record News HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/405
+#EXTINF:-1,Record PA HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29782
+#EXTINF:-1,Record RJ HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29780
+#EXTINF:-1,Record RS HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29781
+#EXTINF:-1,Record SP HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/403
+#EXTINF:-1,Record SP HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/148
+#EXTINF:-1,Red Bull TV  HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33260
+#EXTINF:-1,Rede Brasil HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53493
+#EXTINF:-1,Rede Genisis HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53511
+#EXTINF:-1,Rede Gospel HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33261
+#EXTINF:-1,Rede Gospel SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33262
+#EXTINF:-1,Rede Super HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53488
+#EXTINF:-1,Rede TV 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56495
+#EXTINF:-1,Rede TV HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/136
+#EXTINF:-1,Rede Vida HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22506
+#EXTINF:-1,Rick and Morty
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33101
+#EXTINF:-1,RIT TV SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22510
+#EXTINF:-1,Rá Tim Bum HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/72
+#EXTINF:-1,Sai de Baixo
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33115
+#EXTINF:-1,SBT 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56506
+#EXTINF:-1,SBT HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1512
+#EXTINF:-1,SBT HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/402
+#EXTINF:-1,Scooby-Doo
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32603
+#EXTINF:-1,Shoptime SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29773
+#EXTINF:-1,Sony HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1446
+#EXTINF:-1,Sony HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/127
+#EXTINF:-1,South Park
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32602
+#EXTINF:-1,Space 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56485
+#EXTINF:-1,Space HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1445
+#EXTINF:-1,Space HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/125
+#EXTINF:-1,SporTV 2 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1443
+#EXTINF:-1,SporTV 2 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/123
+#EXTINF:-1,SporTV 3 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1442
+#EXTINF:-1,SporTV 3 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/121
+#EXTINF:-1,Sportv 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56504
+#EXTINF:-1,SporTV HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1444
+#EXTINF:-1,SporTV HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/119
+#EXTINF:-1,Studio Universal HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1441
+#EXTINF:-1,Studio Universal HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/117
+#EXTINF:-1,Super Campeões J
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33102
+#EXTINF:-1,Super Choque
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32627
+#EXTINF:-1,Syfy HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1440
+#EXTINF:-1,Syfy HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/115
 #EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5115
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5499
+http://canaishd.servidor.tv:8080/coelho123/coelho123/113
 #EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/6110
-#EXTINF:-1,TCM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5500
-#EXTINF:-1,TELECINE ACTION FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5268
-#EXTINF:-1,TELECINE ACTION HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5116
-#EXTINF:-1,TELECINE ACTION SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5501
-#EXTINF:-1,TELECINE CULT FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5269
-#EXTINF:-1,TELECINE CULT HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5117
-#EXTINF:-1,TELECINE CULT SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5502
-#EXTINF:-1,TELECINE FUN FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5270
-#EXTINF:-1,TELECINE FUN HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5118
-#EXTINF:-1,TELECINE FUN SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5503
-#EXTINF:-1,TELECINE PIPOCA 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26518
-#EXTINF:-1,TELECINE PIPOCA FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5271
-#EXTINF:-1,TELECINE PIPOCA HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5119
-#EXTINF:-1,TELECINE PIPOCA SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5504
-#EXTINF:-1,TELECINE PREMIUM 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26519
-#EXTINF:-1,TELECINE PREMIUM FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5272
-#EXTINF:-1,TELECINE PREMIUM HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5120
-#EXTINF:-1,TELECINE PREMIUM SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5505
-#EXTINF:-1,TELECINE TOUCH FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5273
-#EXTINF:-1,TELECINE TOUCH HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5121
-#EXTINF:-1,TELECINE TOUCH SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5506
-#EXTINF:-1,TLC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5274
+http://canaishd.servidor.tv:8080/coelho123/coelho123/99
+#EXTINF:-1,Telecine Action HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1438
+#EXTINF:-1,Telecine Action HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/111
+#EXTINF:-1,Telecine Cult HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1437
+#EXTINF:-1,Telecine Cult HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/109
+#EXTINF:-1,Telecine Fun HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1436
+#EXTINF:-1,Telecine Fun HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/107
+#EXTINF:-1,Telecine Pipoca 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56489
+#EXTINF:-1,Telecine Pipoca HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1435
+#EXTINF:-1,Telecine Pipoca HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/105
+#EXTINF:-1,Telecine Premium 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56497
+#EXTINF:-1,Telecine Premium HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1434
+#EXTINF:-1,Telecine Premium HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/103
+#EXTINF:-1,Telecine Touch HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1439
+#EXTINF:-1,Telecine Touch HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/101
+#EXTINF:-1,Terra Viva HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53500
+#EXTINF:-1,Timão e Pumba
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33103
 #EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5122
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5508
-#EXTINF:-1,TNT 4K
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/26520
-#EXTINF:-1,TNT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5275
+http://canaishd.servidor.tv:8080/coelho123/coelho123/94
+#EXTINF:-1,TNT 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56492
 #EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5123
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5509
-#EXTINF:-1,TNT SERIES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5276
-#EXTINF:-1,TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5124
-#EXTINF:-1,TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5510
-#EXTINF:-1,TNT Sports 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/48007
-#EXTINF:-1,TNT Sports 03 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/48011
-#EXTINF:-1,TNT Sports 04 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/48013
-#EXTINF:-1,TNT Sports 05 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/48015
-#EXTINF:-1,TOONCAST HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5511
-#EXTINF:-1,TRUTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/35753
-#EXTINF:-1,TV APARECIDA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45248
-#EXTINF:-1,TV APARECIDA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5514
-#EXTINF:-1,TV APARECIDA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/57362
-#EXTINF:-1,TV BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/18062
-#EXTINF:-1,TV BRASIL HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45236
-#EXTINF:-1,TV CAMARA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45233
-#EXTINF:-1,TV DIARIO HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5165
-#EXTINF:-1,TV ESCOLA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45238
-#EXTINF:-1,TV EVANGELIZAR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45320
-#EXTINF:-1,TV JUSTICA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45235
-#EXTINF:-1,GLOBO TV LIBERAL BELEM FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5520
-#EXTINF:-1,TV PAI ETERNO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45951
-#EXTINF:-1,TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5127
-#EXTINF:-1,TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5521
-#EXTINF:-1,TV SENADO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/45234
-#EXTINF:-1,TV SERGIPE HD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5308
-#EXTINF:-1,TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5523
-#EXTINF:-1,TV TEM SOROCABA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5525
-#EXTINF:-1,TV VANGUARDA São José dos Campos SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5392
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5528
-#EXTINF:-1,UNIVERSAL TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5280
-#EXTINF:-1,UNIVERSAL TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5129
-#EXTINF:-1,UNIVERSAL TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5535
-#EXTINF:-1,VH1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5529
-#EXTINF:-1,VIVA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/30742
-#EXTINF:-1,VIVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5131
-#EXTINF:-1,VIVA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5530
-#EXTINF:-1,WARNER CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5282
-#EXTINF:-1,WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5132
-#EXTINF:-1,WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5531
-#EXTINF:-1,WOOHOO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5283
-#EXTINF:-1,WOOHOO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5532
-#EXTINF:-1,ZOOMOO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/5533
-#EXTINF:-1,ZOOMOO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/23669
-#EXTINF:-1,[24H] - Aladin
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72932
-#EXTINF:-1,[24H] - As Meninas Superpoderosas
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72933
-#EXTINF:-1,[24H] - Ben 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72934
-#EXTINF:-1,[24H] - Bob Esponja
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72935
-#EXTINF:-1,[24H] - Breaking Bad
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72936
-#EXTINF:-1,[24H] - Cão Coragem
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72937
-#EXTINF:-1,[24H] - Caverna do Dragão
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72938
-#EXTINF:-1,[24H] - Chapolin Colorado
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72939
-#EXTINF:-1,[24H] - Chaves
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72940
-#EXTINF:-1,[24H] - Chaves Desenho
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72941
-#EXTINF:-1,[24H] - Denis o Pimentinha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72942
-#EXTINF:-1,[24H] - Desenhos Biblicos
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72943
-#EXTINF:-1,[24H] - Desenhos Disney
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72944
-#EXTINF:-1,[24H] - Digimon
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72945
-#EXTINF:-1,[24H] - Dois Homens e Meio
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72946
-#EXTINF:-1,[24H] - Doug
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72947
-#EXTINF:-1,[24H] - Dragon Ball
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72948
-#EXTINF:-1,[24H] - Eu a Patroa e as Crianças
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72949
-#EXTINF:-1,[24H] - Galinha Pintadinha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72950
-#EXTINF:-1,[24H] - Guardiões da Galaxia
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72951
-#EXTINF:-1,[24H] - He-Man
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72952
-#EXTINF:-1,[24H] - Historias Disney
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72953
-#EXTINF:-1,[24H] - Pica Pau
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72954
-#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72955
-#EXTINF:-1,[24H] - 3 Palavrinhas
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72956
-#EXTINF:-1,[24H] - A Grande Familia
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72957
-#EXTINF:-1,[24H] - A Feiticeira
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72958
-#EXTINF:-1,[24H] - Mr. Bean
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72959
-#EXTINF:-1,[24H] - Friends - Temp 03
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72960
-#EXTINF:-1,[24H] - Scooby Doo
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72961
-#EXTINF:-1,[24H] - O Máskara
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72962
-#EXTINF:-1,[24H] - Tom E Jerry
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72963
-#EXTINF:-1,[24H] - Caverna Do Dragão
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72964
-#EXTINF:-1,[24H] - Galinha Pintadinha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72965
-#EXTINF:-1,[24H] - Homem Aranha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72966
-#EXTINF:-1,[24H] - Ben 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72967
-#EXTINF:-1,[24H] - Aladdin Desenho Animado
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72968
-#EXTINF:-1,[24H] - As Aventuras De Jackie Chan
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72969
-#EXTINF:-1,[24H] - The Big Bang Theory - Temp 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72970
-#EXTINF:-1,[24H] - Os Padrinhos Mágicos -
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72971
-#EXTINF:-1,[24H] - A Turma Da Monica 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72972
-#EXTINF:-1,[24H] - PJ Masks
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72973
-#EXTINF:-1,[24h] - 101 Dalmatas
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72974
-#EXTINF:-1,[24h] - Desenhos Biblicos 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72975
-#EXTINF:-1,[24h] - Johnny Test
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72976
-#EXTINF:-1,[24h] - Looney Tunes
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72977
-#EXTINF:-1,[24h] - Masha e o Urso 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72978
-#EXTINF:-1,[24h] - Os Backyardigans
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72979
-#EXTINF:-1,[24h] - Teletubbies
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72980
-#EXTINF:-1,[24H] - He Man Desenho 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72981
-#EXTINF:-1,[24H] - Jaspion
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srvuhd.top:80/FAMILIA/12345/72982
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1433
+#EXTINF:-1,TNT HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/92
+#EXTINF:-1,TNT Series 4K UHD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/56491
+#EXTINF:-1,TNT Series HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1432
+#EXTINF:-1,TNT Sports HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53517
+#EXTINF:-1,TNT Séries HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/90
+#EXTINF:-1,Todo Mundo Odeia o Chris
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32625
+#EXTINF:-1,Tokyo Ghoul
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33104
+#EXTINF:-1,Tom e Jerry
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32600
+#EXTINF:-1,Toma Lá Dá Cá
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33116
+#EXTINF:-1,Tooncast HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33263
+#EXTINF:-1,Travel Box HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53508
+#EXTINF:-1,Tru TV HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53510
+#EXTINF:-1,Três Espiãs Demais
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33105
+#EXTINF:-1,TV Aparecida HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33184
+#EXTINF:-1,TV Brasil 2 HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53492
+#EXTINF:-1,TV Brasil HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22513
+#EXTINF:-1,TV Camara HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22511
+#EXTINF:-1,TV Comunitária HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/53491
+#EXTINF:-1,TV Cultura HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/29772
+#EXTINF:-1,TV Diario HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/4473
+#EXTINF:-1,TV Diario HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/4472
+#EXTINF:-1,TV Escola HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22514
+#EXTINF:-1,TV Evangelizar HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/33264
+#EXTINF:-1,TV Justiça HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22512
+#EXTINF:-1,TV Senado HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/22515
+#EXTINF:-1,TV5 SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/69
+#EXTINF:-1,Um Maluco no Pedaço
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32592
+#EXTINF:-1,Universal Channel HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1431
+#EXTINF:-1,Universal Channel HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/67
+#EXTINF:-1,VH1 HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/65
+#EXTINF:-1,VH1 Mega Hits SD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/64
+#EXTINF:-1,Viva HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/2680
+#EXTINF:-1,Viva HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/10
+#EXTINF:-1,Warner Channel HD
+http://canaishd.servidor.tv:8080/coelho123/coelho123/1430
+#EXTINF:-1,Warner Channel HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/61
+#EXTINF:-1,WooHoo HD+
+http://canaishd.servidor.tv:8080/coelho123/coelho123/59
+#EXTINF:-1,X-Men Evolution
+http://canaishd.servidor.tv:8080/coelho123/coelho123/32628
